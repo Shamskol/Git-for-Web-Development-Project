@@ -13,6 +13,7 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
   - [ ] Use your own student fork as the base (compare across forks, base-fork -> master).
   - [ ] Add your TL as a reviewer on the Pull-Request
 - [ ] TL then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
+Link to codepen answer: https://codepen.io/Shamskol/pen/yLyyaLM?editors=1100
 ## Part Two:
 1. fork this codepen https://codepen.io/BritHemming/pen/eYYEoPa?editors=1100
 2. You will be marking up all of the HTML and styling it to look like this: https://codepen.io/BritHemming/full/jONmxOm using CSS
@@ -21,10 +22,17 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
 4. don't forget to add, commit and push your changes.
 ## Stretch
 Stretch Review questions: 
-    1. What is the difference between an inline element and a block element?
+    1. What is the difference between an inline element and a block element? An inline element does not cause a line break and does not take up the full width of of a page, it only takes the space bounded by its opening and closing tags.
+    In case of a block level element it always starts on a new line and does take the full width of the page from left to right.It can also take up one line or multiple lines and has a line break before and after the element.
+
     2. What happens when an element is positioned absolutely? 
+    The computed position of such element is fixed
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
-    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default : button tag <button>
+    Display block elements by default: Heading tags <h1> to <h6>, Paragraph tags <p>  and List tags ie ,<ol> <ul>
+    Display inline by default : anchor <a> taag; and image <img> tags
+    Display inline-block by default :
     5. In your own words, explain the box model. What is the fix for the box model? 
 Stretch Git Tasks
 - [ ] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independently research the following topics to learn more about Git.
